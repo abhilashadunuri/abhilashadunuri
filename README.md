@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhilash Adunuri</h1>
-<h3 align="center">A passionate programmer with good DSA Skills and d Data Enthusiast</h3>
+<h3 align="center">A passionate programmer with good DSA Skills and a Data Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhilashadunuri&label=Profile%20views&color=0e75b6&style=flat" alt="abhilashadunuri" /> </p>
 
