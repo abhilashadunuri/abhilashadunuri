@@ -1,39 +1,80 @@
 <h1 align="center">Hi 👋, I'm Abhilash Adunuri</h1>
-<h3 align="center">A passionate programmer with good DSA Skills and a Data Enthusiast</h3>
+<h3 align="center">Software Engineer | Full-Stack Developer | AI Solutions & LLM Integrations</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhilashadunuri&label=Profile%20views&color=0e75b6&style=flat" alt="abhilashadunuri" /> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+### 👨‍💻 About Me
 
-- 🔭 I’m currently Pursuing BTech in **Sreenidhi institute of science and technology**
+- 🔭 Currently working as a **Software Engineer**, building AI-powered systems and scalable web applications.
+- 🧠 Experienced in **React, TypeScript, NestJS, Python, LLM Integrations, and Agent Workflows**.
+- 🚀 Built production systems including **NL2SQL Agents, Internal AI Toolkits, Automation Bots, and Enterprise Platforms**.
+- 📝 I write about AI systems and engineering learnings on  
+  **https://medium.com/@adunuriabhilash**
+- 📫 Reach me at **abhilashadunuri0304@gmail.com**
 
-- 🌱 I’m currently learning **DSA(Advanced) and Web Development**
+---
 
-- 📝 I regularly write articles on [https://medium.com/@mindfulsolitude](https://medium.com/@mindfulsolitude)
+### 🚀 Tech Stack
 
-- 📫 How to reach me **abhilashadunuri0304@gmail.com**
-
-<h3 align="left">Coding Platforms:</h3>
-<p align="left">
-<a href="https://www.codechef.com/users/abhilashadunur" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhilashadunur" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/abhilash_adunuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhilash_adunuri" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/abhilash_adunuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abhilash_adunuri" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abhilash_adunuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhilash_adunuri" height="30" width="40" /></a>
+#### Frontend
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
 </p>
 
-<h3 align="left">Tech Stack:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/abhi_adunuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhi_adunuri" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abhilash-adunuri-98643a261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhilash-adunuri-98643a261" height="30" width="40" /></a>
-<a href="https://medium.com/@mindfulsolitude" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mindfulsolitude" height="30" width="40" /></a>
+#### Backend
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhilashadunuri&show_icons=true&locale=en&layout=compact" alt="abhilashadunuri" /></p>
+#### Databases
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhilashadunuri&show_icons=true&locale=en" alt="abhilashadunuri" /></p>
+#### Tools & DevOps
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhilashadunuri&" alt="abhilashadunuri" /></p>
+---
 
+### 🧠 AI & Engineering Focus
+
+- LLM Integrations (ChatGPT, multi-source workflows)
+- Agentic Systems & NL2SQL Architectures
+- Prompt Engineering & Guardrails
+- Internal Automation & Knowledge Systems
+- API Design & Scalable Backend Architecture
+
+---
+
+### 🌐 Connect with Me
+
+<p>
+<a href="https://linkedin.com/in/abhilash-adunuri" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30"/>
+</a>
+
+<a href="https://medium.com/@adunuriabhilash" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="30" height="30"/>
+</a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=abhilashadunuri&show_icons=true&theme=default" />
+</p>
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhilashadunuri&layout=compact&theme=default" />
+</p>
